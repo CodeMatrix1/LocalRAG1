@@ -1,0 +1,9 @@
+models/
+sentencepiece/
+chroma/
+__pycache__/
+*.sqlite3
+*.safetensors
+*.bin
+~/.cache/huggingface
+~/.cache/torch

@@ -1,0 +1,12 @@
+pypdf
+langchain
+langchain-community
+chromadb
+sentence-transformers
+mistral-inference
+cmake==3.27.0
+huggingface-hub
+transformers 
+accelerate
+torch
+ollama
